@@ -1,3 +1,6 @@
+![Profile Picture](assets/img/tes.jpg)
+
+
 # 🚀 Data Science Portfolio - TESLIM ABDULKAREEM OLUWASEYI
 
 Welcome to my portfolio! I am a **Data Scientist** passionate about **Machine Learning, Data Analytics, and Business Intelligence**. I leverage data-driven insights to solve complex problems and optimize decision-making processes.
