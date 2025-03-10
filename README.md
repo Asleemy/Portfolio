@@ -27,14 +27,14 @@ Welcome to my portfolio! I am a **Data Scientist** passionate about **Machine Le
 🔍 **Tech Stack:** Python, Scikit-Learn, Linear Regression, XGBoost  
 📊 **Dataset Used:** Paris housing dataset from Kaggle  
 📈 **Results:** Improved prediction accuracy by 25%, enabling better price estimations for potential buyers.  
-👉 **👉 [View Project](https://asleemy.github.io/Portfolio/Paris-Housing-ML)**  
+👉 **👉 [View Project](https://github.com/Asleemy/Paris-Housing-ML)**  
 
 ### **3️⃣ Wine Quality Prediction**
 📌 **Objective:** Created a machine learning model to predict wine quality based on chemical properties.  
 🔍 **Tech Stack:** Python, Scikit-Learn, Random Forest, Data Visualization  
 📊 **Dataset Used:** Wine quality dataset from UCI Machine Learning Repository  
 📈 **Results:** Achieved a classification accuracy of 88%, helping businesses in the wine industry assess quality automatically.  
-👉 **[View Project]([link-to-project-folder](https://github.com/Asleemy/Wine-Quality))**  
+👉 **[View Project](https://github.com/Asleemy/Wine-Quality)**  
 
 ### **4️⃣ Bankruptcy Prediction Using Qualitative Data**
 📌 **Objective:** Developed a classification model to predict company bankruptcy based on qualitative financial indicators.  
