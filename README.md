@@ -1,6 +1,3 @@
-
-
-
 # 🚀 Data Science Portfolio - TESLIM ABDULKAREEM OLUWASEYI
 
 Welcome to my portfolio! I am a **Data Scientist** passionate about **Machine Learning, Data Analytics, and Business Intelligence**. I leverage data-driven insights to solve complex problems and optimize decision-making processes.
@@ -30,7 +27,7 @@ Welcome to my portfolio! I am a **Data Scientist** passionate about **Machine Le
 🔍 **Tech Stack:** Python, Scikit-Learn, Linear Regression, XGBoost  
 📊 **Dataset Used:** Paris housing dataset from Kaggle  
 📈 **Results:** Improved prediction accuracy by 25%, enabling better price estimations for potential buyers.  
-👉 **[View Project]([link-to-project-folder](https://github.com/Asleemy/Paris-Housing-ML))**  
+👉 **👉 [View Project](https://asleemy.github.io/Portfolio/Paris-Housing-ML)**  
 
 ### **3️⃣ Wine Quality Prediction**
 📌 **Objective:** Created a machine learning model to predict wine quality based on chemical properties.  
