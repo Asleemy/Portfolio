@@ -1,2 +1,7 @@
-title: My Portfolio
-theme: jekyll-theme-minimal
+title: "Data Science Portfolio"
+description: "Showcasing my Data Science projects and skills"
+theme: minima  # Change theme if needed
+show_downloads: false
+github:https://github.com/Asleemy
+  is_project_page: true
+
