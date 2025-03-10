@@ -1,6 +1,5 @@
 title: "Data Science Portfolio"
 description: "Showcasing my Data Science projects and skills"
-theme: minima  # Change theme if needed
+theme: jekyll-theme-minimal  # Change this to match your actual theme
 show_downloads: false
-  is_project_page: true
-
+is_project_page: true
