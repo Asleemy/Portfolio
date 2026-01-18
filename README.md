@@ -57,23 +57,22 @@ Welcome to my portfolio! I am a **Data Scientist** passionate about **Machine Le
 ### **💻 Programming & Data Manipulation**
 - **Languages:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, SciPy, Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-Learn, TensorFlow, XGBoost  
+- **Machine Learning:** Scikit-Learn, TensorFlow  
 - **Data Cleaning & Wrangling**
 
 ### **📊 Data Visualization & Business Intelligence**
 - **Power BI, Tableau, Google Data Studio**
-- **Matplotlib, Seaborn, Plotly, Dash**
+- **Matplotlib, Seaborn, Plotly**
 - **Dashboard Development & Data Storytelling**
 
 ### **🗄️ Databases & Big Data**
-- **SQL (PostgreSQL, MySQL, BigQuery, Snowflake)**
+- **SQL (PostgreSQL, MySQL)**
 - **Data Warehousing & Query Optimization**
-- **Apache Spark, Hadoop, Databricks**
 
 ### **🚀 Cloud & Deployment**
 - **Cloud Platforms:** AWS, Google Cloud, Azure  
-- **Model Deployment:** Flask, FastAPI, Streamlit, Docker  
-- **MLOps:** CI/CD Pipelines, Kubernetes  
+- **Model Deployment:** Flask, FastAPI, Docker  
+- **MLOps:** Kubernetes  
 
 ---
 
